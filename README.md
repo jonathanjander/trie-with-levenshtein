@@ -5,7 +5,7 @@ Also contains the Levenshtein distance string matching algorithm and an autoComp
 Used for extremely fast string matching and prefix string searching.
 
 # References
-Trie: https://en.wikipedia.org/wiki/Trie
-Levenshtein distance: https://en.wikipedia.org/wiki/Levenshtein_distance
-Fast and Easy Levenshtein distance using a Trie: http://stevehanov.ca/blog/index.php?id=114
+ - Trie: https://en.wikipedia.org/wiki/Trie
+ - Levenshtein distance: https://en.wikipedia.org/wiki/Levenshtein_distance0
+ - Fast and Easy Levenshtein distance using a Trie: http://stevehanov.ca/blog/index.php?id=114
 
